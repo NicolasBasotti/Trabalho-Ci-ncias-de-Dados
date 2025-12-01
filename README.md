@@ -1,7 +1,7 @@
-**#Essa é a interface do Projeto final Ciência de dados.**
+#Essa é a interface do Projeto final Ciência de dados.
 
-# Alunos: Nícolas André Basotti e Miguel Lipreri Arnold
-# Link Github(Projeto): 
+## Alunos: Nícolas André Basotti e Miguel Lipreri Arnold
+## Link Github(Projeto): 
 
 🔐 O repositório está organizado da seguinte maneira 🔐
 
